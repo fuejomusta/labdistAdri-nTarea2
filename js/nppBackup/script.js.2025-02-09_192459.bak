@@ -22,17 +22,17 @@ document.addEventListener("DOMContentLoaded", function() {
         if (!valid) {
             event.preventDefault();
         }
-<<<<<<< .merge_file_jQVJ1I
+<<<<<<< HEAD
         if (mensaje.value.trim() === "") {
             alert("Ingrese un mensaje, por favor");
             valid = false;
         }
-||||||| .merge_file_NqPT5i
+||||||| 60179c6
 =======
         if (mensaje.value.trim() === "") {
             alert("Por favor, ingrese un mensaje.");
             valid = false;
         }
->>>>>>> .merge_file_ByDzM2
+>>>>>>> hotfix-js
     });
 });
