@@ -456,3 +456,13 @@ Tras estos últimos cambios al intentar subir el repositorio remoto me ha dado u
 Tras realizar un Pull, revisar conflictos, he podido realizar el Push
 
 <img src="./Imagenes/image-20250209193944528.png" alt="image-20250209193944528" style="zoom:67%;" />
+
+Estado Insights Github
+
+<img src="./Imagenes/%7B41A75DCF-2FE5-410F-AC10-BE462EF97AF0%7D.png" alt="{41A75DCF-2FE5-410F-AC10-BE462EF97AF0}" style="zoom:67%;" />
+
+<img src="./Imagenes/%7BE158F469-3408-4D5A-AA06-09F22CDAC2DE%7D.png" alt="{E158F469-3408-4D5A-AA06-09F22CDAC2DE}" style="zoom:67%;" />
+
+Carpeta Docs con documentos de la tarea
+
+<img src="./Imagenes/%7B07F9D7C5-89B7-4A6B-BDBC-90EA23889878%7D.png" alt="{07F9D7C5-89B7-4A6B-BDBC-90EA23889878}" style="zoom:67%;" />
